@@ -3,16 +3,16 @@
 Algoritmo "Verificar_IP"
 
 Var
-   ipEntrada: caractere
-   ip1, ip2, ip3: caractere
+   IpEntrada: caractere
+   Ip1, Ip2, Ip3: caractere
    autorizado: boolean
 
 Inicio
 
    // Definindo IPs autorizados
-   ip1 <- "192.168.0.1"
-   ip2 <- "192.168.0.2"
-   ip3 <- "192.168.0.3"
+   Ip1 <- "192.168.0.1"
+   Ip2 <- "192.168.0.2"
+   Ip3 <- "192.168.0.3"
 
    // Inicialmente, acesso bloqueado
    autorizado <- falso
