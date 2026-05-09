@@ -61,6 +61,5 @@ O sistema realiza a verificação de acesso utilizando regras de negócio que en
 
 <b>imagens</b>: Armazena imagens utilizadas no projeto (como a logo).
 
-<b>src</b>: Código fonte do sistema (a ser desenvolvido nas próximas etapas).
 <b>src</b>: Banco de Dados documentos/Entrega 2/Banco de Dados/README.md
 
