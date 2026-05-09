@@ -21,8 +21,7 @@ Status_do_Pacote VARCHAR(30),
 ID_Pacote INT,
 FOREIGN KEY (ID_Pacote) REFERENCES Pacote(ID_Pacote)
 );
-1
-Entrega 2 - 11/05
+
 CREATE TABLE Acesso (
 id_acesso INT PRIMARY KEY AUTO_INCREMENT,
 Data_Hora_Acesso DATETIME NOT NULL,
